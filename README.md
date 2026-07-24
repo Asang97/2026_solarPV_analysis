@@ -1,4 +1,4 @@
-# PowerUp 2026 — Solar PV Analysis (SDM_A vs PPDM_A)
+# Solar PV Analysis (SDM_A vs PPDM_A)
 
 ## Overview
 This repository contains the implementation used to evaluate and compare the
